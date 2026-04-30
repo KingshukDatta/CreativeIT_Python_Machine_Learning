@@ -1,0 +1,5 @@
+Tips for Jupyter Markdown:
+Fractions: Use \frac{1}{p} if you want a stacked fraction instead of 1/p.
+Subscripts: Use the underscore _ (e.g., A_i).
+Summation: Use \sum_{i=1}^{n} to get the limits above and below the sigma symbol.
+Brackets: Using \left( and \right) ensures the parentheses automatically resize to fit the height of the summation inside.
